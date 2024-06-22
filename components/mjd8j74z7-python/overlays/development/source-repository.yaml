@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mjd8j74z7-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mjd8j74z7-python
